@@ -8,6 +8,7 @@ ex)
 polyPlot.py 2 1 2 3
 → 1*x**2 + 2*x + 3
 
+
 **twoValPolyPlot.py**
 2変数多項式をグラフで表示するモジュール
 
