@@ -6,7 +6,7 @@
 引数2以下、各a_i
 
 ex)
-polyPlot.py 2 1 2 3
+python polyPlot.py 2 1 2 3
 → 1*x**2 + 2*x + 3
 ```
 
